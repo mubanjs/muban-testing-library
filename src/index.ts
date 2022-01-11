@@ -1,5 +1,6 @@
 import { cleanup } from './render';
 
+export * from '@testing-library/dom';
 export * from './render';
 export * from './queryByRef';
 
