@@ -1,6 +1,6 @@
 {
   "name": "@muban/testing-library",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "Muban Testing utilities for testing-library",
   "keywords": [
     "muban",
